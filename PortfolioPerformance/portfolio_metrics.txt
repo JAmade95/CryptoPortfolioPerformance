@@ -1,0 +1,4 @@
+Portfolio Metrics:
+Annualized Returns: 0.60
+Annualized Volatility: 0.40
+Sharpe Ratio: 1.52
